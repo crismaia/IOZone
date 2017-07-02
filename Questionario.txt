@@ -1,0 +1,17 @@
+1 - Marque as alternativas verdadeiras:
+(  ) Fortran, Algol 60 e Cobol não possuem suporte para strings.
+(X) C e Ada fornecem strings que são matrizes de caracteres.
+(X) Em C é necessário alocar um espaço para o caractere NUL, já em Ada não.
+(  ) Strings em Phyton são declaradas com um tamanho.
+(X) Java fornece amplas bibliotecas de funções e operações de strings.
+
+2 - Qual a principal diferença entre estruturas e classes? Por que C++ possui tanto classes quanto  estruturas?
+Classes e Estruturas são em essência tem a mesma função, com classes sendo mais voltada para Programação Orientada a Objetos. C++ possui estruturas para manter a compatibilidade com C.
+
+3 - Anos atrás, a memória era escassa. Isso obrigava programadores a definirem códigos com um mínimo de desperdício de armazenamento. Explique como a utilização de registros variantes auxiliava na economia de memória:
+
+Utilizar registros variante permite compartilhar um mesmo bloco de memória para mais de uma variável, uma por vez. Isso ajudava a economizar espaço na memória, pois os registros variavam entre um ou outro para utilizarem o mesmo espaço.
+
+4 - Defina tipo de dados recursivos:
+
+São tipos de dados que possuem o próprio tipo em sua definição.
